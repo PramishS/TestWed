@@ -15,6 +15,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * LOl I am Greatest
  * Making a change
  Making a change again 
+ Checking aFetch and Merge
  */
 public class Student 
 {
