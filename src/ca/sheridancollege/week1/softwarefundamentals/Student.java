@@ -12,7 +12,8 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * 
  * @author dancye May 7, 2018
  * @modifiedby Pramish May 15,2024
- * @LOl I am Greatest
+ * LOl I am Greatest
+ * Making a change
  */
 public class Student 
 {
